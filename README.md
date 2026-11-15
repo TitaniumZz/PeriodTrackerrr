@@ -80,3 +80,5 @@ Herhangi bir ek kütüphane kurulmasına gerek yoktur.
 ## Proje Amacı
 
 Bu projeyi geliştirirken temel Python bilgilerimi gerçek hayatta kullanılabilecek küçük bir uygulamaya dönüştürmeyi amaçladım. Aynı zamanda kullanıcı girdilerini kontrol etme, verileri saklama ve fonksiyonlarla daha düzenli kod yazma konularında pratik yapmayı hedefledim.
+<img width="783" height="711" alt="image" src="https://github.com/user-attachments/assets/ff901834-9dd1-4b92-a9ea-317a96a05488" />
+<img width="900" height="614" alt="image" src="https://github.com/user-attachments/assets/d9f928c0-02c0-4b98-a2e6-a28369bd1456" />
