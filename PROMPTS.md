@@ -10,10 +10,7 @@ print("3. Check the last log")
 print("4. Quit")
 ```
 
-for the first option, i want the user to enter 3 things:
-- the date their period started (day.month.year format)
-- how many days their period lasted
-- their mood swing level during that period, rated from 1 to 10
+for the first option, i want the user to enter 3 things: the date their period started (day.month.year format), how many days their period lasted, their mood swing level during that period, rated from 1 to 10
 
 for the mood swing part, i want the program to automatically describe the score as low, medium or high. something like 1-3 being low, 4-7 medium and 8-10 high.
 the second option should show all the previous period logs with their dates, duration and mood swing scores. i want the newest records to show up first.
