@@ -1,0 +1,54 @@
+﻿
+==============================
+       PERIOD TRACKERRR
+==============================
+
+1. Add a period log
+2. Check all logs
+3. Check the last log
+4. Quit
+
+What would you like to do? (1-4): 
+--- New Period Log ---
+Reglinin basladigi tarih (GG.AA.YYYY): Reglin kac gun surdu? (1-15): O donemde mood swing seviyen nasildi? (1-10, 10 en yogun): 
+Regl kaydin basariyla eklendi!
+Mood swing seviyesi: Medium - Orta duzeyde ruh hali degisimi
+
+1. Add a period log
+2. Check all logs
+3. Check the last log
+4. Quit
+
+What would you like to do? (1-4): 
+--- New Period Log ---
+Reglinin basladigi tarih (GG.AA.YYYY): Gecersiz tarih! Ornek format: 15.11.2026
+Reglinin basladigi tarih (GG.AA.YYYY): Reglin kac gun surdu? (1-15): O donemde mood swing seviyen nasildi? (1-10, 10 en yogun): 
+Regl kaydin basariyla eklendi!
+Mood swing seviyesi: Medium - Orta duzeyde ruh hali degisimi
+
+1. Add a period log
+2. Check all logs
+3. Check the last log
+4. Quit
+
+What would you like to do? (1-4): 
+--- All Period Logs ---
+
+Kayit 1
+Regl baslangic tarihi: 11.11.2026
+Regl suresi: 3 gun
+Mood swing puani: 6/10
+Mood swing seviyesi: Medium - Orta duzeyde ruh hali degisimi
+
+Kayit 2
+Regl baslangic tarihi: 12.02.2026
+Regl suresi: 5 gun
+Mood swing puani: 7/10
+Mood swing seviyesi: Medium - Orta duzeyde ruh hali degisimi
+
+1. Add a period log
+2. Check all logs
+3. Check the last log
+4. Quit
+
+What would you like to do? (1-4): The program 'python.exe' has exited with code 0 (0x0).
