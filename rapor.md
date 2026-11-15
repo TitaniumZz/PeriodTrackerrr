@@ -77,6 +77,17 @@ Aşağıdaki sonuçlar paylaştığım terminal ekran görüntülerindeki deneme
 | Mood swing olarak 11 yazılması | 1-10 aralığı dışında olduğu için reddedilmesi | Aralık uyarısı gösterildi. |
 | 15.11.2026, 4 gün ve 5 puan girilmesi | Yeni kaydın eklenmesi | Kayıt eklendi ve mood seviyesi Medium olarak gösterildi. |
 | Menüden 2 ve 3 seçeneklerinin seçilmesi | Bütün kayıtların ve son kaydın gösterilmesi | Eklenen kayıt iki ekranda da görüntülendi. |
+<img width="395" height="193" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (5)" src="https://github.com/user-attachments/assets/911217ce-d719-4b82-ba25-ab1660190c89" />
+<img width="390" height="153" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (4)" src="https://github.com/user-attachments/assets/4de18c4d-c681-4e30-a676-c884c63654b1" />
+<img width="388" height="51" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (3)" src="https://github.com/user-attachments/assets/41090cad-1978-4846-a5cb-b44aaa3d3320" />
+<img width="377" height="104" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (2)" src="https://github.com/user-attachments/assets/3981fc12-a72a-48cc-9389-ce38ece3a81a" />
+<img width="342" height="197" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (1)" src="https://github.com/user-attachments/assets/22a4a4b5-b3b6-4bb9-b8ae-4e3955f3eea6" />
+<img width="322" height="335" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM" src="https://github.com/user-attachments/assets/b0b8eb56-5e2a-4cca-95a8-1430db046db2" />
+<img width="518" height="349" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (9)" src="https://github.com/user-attachments/assets/e129eb21-8dd1-4194-83d4-20fe7c091945" />
+<img width="577" height="427" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (8)" src="https://github.com/user-attachments/assets/050c72f7-053e-4686-9247-26cd4735cac5" />
+<img width="488" height="267" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (7)" src="https://github.com/user-attachments/assets/eda012bf-d334-4ef0-8f35-9f3e6c8558b1" />
+<img width="446" height="202" alt="WhatsApp Image 2026-11-15 at 8 57 21 PM (6)" src="https://github.com/user-attachments/assets/b7c8013e-c370-4192-9f81-2731a543236e" />
+
 
 ## Hata örneği ve değerlendirme
 
