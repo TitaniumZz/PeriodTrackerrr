@@ -101,7 +101,7 @@ Bu projeyi yaparken aslında küçük bir uygulama oluşturmanın bile düşünd
 
 Python'da kullandığımız konuları uygulama üzerinde görmek benim için daha anlaşılır oldu. Özellikle fonksiyonların her işlemi ayrı ayrı düzenlemeye yardımcı olduğunu fark ettim. Liste ve sözlük kullanarak kayıtları tutmak, döngülerle menüyü tekrar göstermek ve if/else yapılarıyla farklı durumları kontrol etmek projenin temel parçalarıydı. Dosyaya kayıt yapma kısmı da öğrendiğim konuları gerçek bir örnekte kullanmamı sağladı.
 
-Yapay zekâdan bu süreçte oldukça fazla yardım aldım. Ama verdiği her cevabı direkt doğru kabul etmek yerine kodu çalıştırıp kontrol etmem gerektiğini de öğrendim. Özellikle yanlış tarih ve geçersiz sayı girişleriyle yaptığım denemeler, programın gerçekten istediğim gibi çalışıp çalışmadığını görmemi sağladı.
+Yapay zekâdan bu süreçte teknik olarak yetersiz kaldığım kısımlarda yardım aldım. Verdiği her cevabı direkt doğru kabul etmek yerine kodu çalıştırıp kontrol etmem gerektiğini de öğrendim. Özellikle yanlış tarih ve geçersiz sayı girişleriyle yaptığım denemeler, programın gerçekten istediğim gibi çalışıp çalışmadığını görmemi sağladı.
 
 Bence bu projeden öğrendiğim en önemli şey, bir uygulama yaparken sadece ana özelliğin çalışmasının yeterli olmadığı. Kullanıcının yapabileceği hataları da düşünmek ve programı farklı durumlarda denemek gerekiyor. İleride oyun geliştirme veya başka yazılım projelerinde de bu yaklaşımın işime yarayacağını düşünüyorum.
 
