@@ -16,11 +16,8 @@ for the first option, i want the user to enter 3 things:
 - their mood swing level during that period, rated from 1 to 10
 
 for the mood swing part, i want the program to automatically describe the score as low, medium or high. something like 1-3 being low, 4-7 medium and 8-10 high.
-
 the second option should show all the previous period logs with their dates, duration and mood swing scores. i want the newest records to show up first.
-
 the third option should only show the latest period log. and obviously if there aren't any records yet, it should tell the user that instead of giving an error.
-
 i also want the records to actually stay saved after closing the program, so i was thinking of using a txt file called period_logs.txt. when the user opens the program again, it should load the previous records automatically.
 
 i don't want the program to crash whenever someone enters something wrong either. for example, if they enter an impossible date like 32.04.2026, a date in the future, letters instead of numbers or a mood swing score outside 1-10, it should show a warning and let them try again. the same goes for period duration, which should only accept numbers between 1 and 15. it should also prevent users from entering the same period start date twice.
